@@ -1,4 +1,3 @@
 # hello-world
 just other 
-<<<<
-necesito ayuda
+rayos por que esto no funciona 
